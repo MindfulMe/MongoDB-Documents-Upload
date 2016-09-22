@@ -18,4 +18,4 @@ Blog
 ----
 [Uploading and Storing Images in MongoDB via Web Browser][1]
 
-[1]:http://www.codepool.biz/mongodb/upload-images-to-mongodb-via-web.html
+[1]:http://www.codepool.biz/upload-images-to-mongodb-web-browser.html
