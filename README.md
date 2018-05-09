@@ -10,7 +10,7 @@ How to Run
 ----------
 1. Import the project to Netbeans
 2. Copy **Resources** folder from **{Dynamic Web TWAIN Installation Directory}** to **mongodb\java\web**
-3. Start up MongoDB
+3. Start up MongoDB/mLab
 4. Run the project
 5. Open `http://localhost:8080/DWT/`
 
